@@ -1,6 +1,6 @@
 ---
-  layout: post
-  title: Markdown test
+layout: post
+title: Markdown & 한글 test
 ---
 
 ### Test markdown
@@ -10,8 +10,8 @@ This is a python program.
 print("안녕하세요? 반갑습니다~!")
 ```
 
-그리고이것은자바프로그램입니다.
+그리고 이것은 자바 프로그램입니다.
 
 ```java
-System.out.println("종종만나요")
+System.out.println("종종 만나요")
 ```
